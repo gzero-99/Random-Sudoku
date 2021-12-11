@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="bottom">
+        <item>@drawable/sudoku_button_bottom_0</item>
+        <item>@drawable/sudoku_button_bottom_1</item>
+        <item>@drawable/sudoku_button_bottom_2</item>
+        <item>@drawable/sudoku_button_bottom_3</item>
+    </array>
+    <array name="bottom_right">
+        <item>@drawable/sudoku_button_bottom_right_0</item>
+        <item>@drawable/sudoku_button_bottom_right_1</item>
+        <item>@drawable/sudoku_button_bottom_right_2</item>
+        <item>@drawable/sudoku_button_bottom_right_3</item>
+    </array>
+    <array name="right">
+        <item>@drawable/sudoku_button_right_0</item>
+        <item>@drawable/sudoku_button_right_1</item>
+        <item>@drawable/sudoku_button_right_2</item>
+        <item>@drawable/sudoku_button_right_3</item>
+    </array>
+    <array name="no">
+        <item>@drawable/sudoku_button_round_0</item>
+        <item>@drawable/sudoku_button_round_1</item>
+        <item>@drawable/sudoku_button_round_2</item>
+        <item>@drawable/sudoku_button_round_3</item>
+    </array>
+</resources>

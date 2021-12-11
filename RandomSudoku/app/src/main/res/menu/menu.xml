@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/veryEasy"
+        android:title="매우쉬움" />
+    <item
+        android:id="@+id/easy"
+        android:title="쉬움" />
+    <item
+        android:id="@+id/normal"
+        android:title="보통" />
+    <item
+        android:id="@+id/hard"
+        android:title="어려움" />
+    <item android:title="첫 화면으로 나가기" />
+</menu>

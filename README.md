@@ -4,6 +4,9 @@ Random Sudoku game android application
 # App Icon
 <img width="323" alt="스크린샷 2021-12-19 오전 11 48 38" src="https://user-images.githubusercontent.com/70897603/146661888-4050733d-d5d8-4a77-9725-333bc9de1ff7.png">
 
+# Start Screen
+<img width="246" alt="스크린샷 2021-12-22 오전 12 01 17" src="https://user-images.githubusercontent.com/70897603/146951351-2dcd8a15-e35a-4a3a-997e-a8c525ab7a83.png">
+
 # Memo
 <img width="253" alt="스크린샷 2021-12-20 오전 11 35 42" src="https://user-images.githubusercontent.com/70897603/146703802-1bf870f7-7a6b-40af-bd49-42cf1ffdbb41.png">
 toogle button을 이용하여 메모기능을 활성화/비활성화 가능

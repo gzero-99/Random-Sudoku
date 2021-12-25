@@ -10,6 +10,9 @@ Random Sudoku game android application
 # Choose game difficulty
 ![image](https://user-images.githubusercontent.com/70897603/147357909-eccc402b-9247-46d9-a442-741611f9e6d3.png)
 
+# Choose game difficulty in game and Restart a new game
+![image](https://user-images.githubusercontent.com/70897603/147384823-132a4983-5498-4851-92a9-7243c25abae3.png)
+
 
 # Game Screen
 <img width="300" alt="스크린샷 2021-12-23 오전 9 45 46" src="https://user-images.githubusercontent.com/70897603/147170930-f4f34a31-efb5-4c6c-8d51-b9ae4a255f9b.png">

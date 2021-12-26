@@ -30,5 +30,7 @@ toogle button을 이용하여 메모기능을 활성화/비활성화 가능
 # Victory
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/70897603/146103530-b32806c3-59c9-4226-937a-5941133b526c.gif)
 
-game finished dialog
+
 ![image](https://user-images.githubusercontent.com/70897603/147412744-3b89a457-4239-48d4-82c2-f68caf12883a.png)
+
+game finished dialog

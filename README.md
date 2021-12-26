@@ -13,9 +13,11 @@ Random Sudoku game android application
 # Choose game difficulty in game and Restart a new game
 ![image](https://user-images.githubusercontent.com/70897603/147384823-132a4983-5498-4851-92a9-7243c25abae3.png)
 
-
 # Game Screen
 <img width="300" alt="스크린샷 2021-12-23 오전 9 45 46" src="https://user-images.githubusercontent.com/70897603/147170930-f4f34a31-efb5-4c6c-8d51-b9ae4a255f9b.png">
+
+# Timer
+![image](https://user-images.githubusercontent.com/70897603/147402899-5ab9af56-86cc-4eaa-be64-7f28cf98019d.png)
 
 # Memo
 <img width="253" alt="스크린샷 2021-12-20 오전 11 35 42" src="https://user-images.githubusercontent.com/70897603/146703802-1bf870f7-7a6b-40af-bd49-42cf1ffdbb41.png">

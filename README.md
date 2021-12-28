@@ -34,3 +34,6 @@ toogle button을 이용하여 메모기능을 활성화/비활성화 가능
 ![image](https://user-images.githubusercontent.com/70897603/147412744-3b89a457-4239-48d4-82c2-f68caf12883a.png)
 
 game finished dialog
+
+# Thanks for
+![image](https://user-images.githubusercontent.com/70897603/147526021-068bf2f7-79aa-4465-beb8-100a54afb8a7.png)
